@@ -1,6 +1,10 @@
 Online Markdown Editor Documentation
 ====================================
-*This is a markdown file on Github.*
+*This is just a markdown file on Github.*
+
+You can view the original File, User, and Repo, using the links at the top right.
+
+If you'd like to load a different Markdown File from Github, return home, or append it's URI to `http://www.onlinemarkdowneditor.com/docs/`.
 
 
 FAQ
