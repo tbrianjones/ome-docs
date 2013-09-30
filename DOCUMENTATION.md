@@ -34,8 +34,8 @@ Yes. Learn more in the Security section below.
 Security
 --------
 Security on Github is maintained with the OME.
-- Public files can be viewed by anyone and without logging into a github account.
-
+- Public Files can be viewed by anyone and without logging into a github account.
+- Viewing Private Files require users to Login with their Github account.  Their account must have access to Pull the File they are trying to view.
 
 
 Public Libraries Used
