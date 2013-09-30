@@ -1,5 +1,6 @@
-Online Markdown Editor ( OME ) Documentation
-============================================
+Online Markdown Editor (OME)
+============================
+
 *This is just a markdown file on Github.*
 
 You can view the original File, User, and Repo, using the links at the top right.
