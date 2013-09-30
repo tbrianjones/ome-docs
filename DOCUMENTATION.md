@@ -38,5 +38,25 @@ Security on Github is maintained with the OME.
 - Viewing Private Files require users to Login with their Github account.  Their account must have access to Pull the File they are trying to view.
 
 
+Creating Great Documentation with OME
+=====================================
+How to use the OME?
+
+
 Public Libraries Used
----------------------
+=====================
+List Open Source Libraries used.
+
+
+Future Features
+===============
+
+Public Features
+---------------
+- Inline Editor to edit Documentation from within the rendered markdown.
+- Improved navigation that scrolls to allow large Documentation with lots of Index Items usable.
+
+Premium Features
+----------------
+- *premium* Branding via custom CSS for your Documentation.
+- *premium* Ability to use your own domain / subdomain with your Docs.
