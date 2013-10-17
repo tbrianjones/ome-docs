@@ -1,8 +1,8 @@
-Online Markdown Editor (OME)
-============================
-
 [Live Hackathon Chat](http://tlk.io/ii_hackathon)
 ---
+
+Online Markdown Editor (OME)
+============================
 
 *We are running a live hackathon chat on tlk.io.  Please visit the [Live Hackathon Chat](http://tlk.io/ii_hackathon) to discuss, collaborate, or offer feedback.*
 
