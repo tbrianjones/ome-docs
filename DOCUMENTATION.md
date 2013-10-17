@@ -38,9 +38,15 @@ We want it to do more than just viewing documentation, so we're doing a hackatho
 
 Some ideas:
 
-* Public collaboration - documentation userscan update and fix your documentation by submitting pull requests through the OME interface (forking handled automatically).
-* Documentation / Code maintenance - monitors your repository, when you update code but not the corresponding documentation, the OME automatically notifies you.
-* Reporting - make your documentation your status reports automatically sent to your team.
+* Create Github issues from the documentation viewer with suggestions, issues, and questions
+* "Publish" documentation for a private repo without exposing the repo
+* Create a self-descriptive API with a special parameter flag
+* Spell check documentation
+* Users can bookmark/star their favorite documentation for easy access
+* Edit markdown inline and have it committed automatically
+* Comment on documentation for other users to see
+* CSS Templates / Customizable CSS
+* Highlight code blocks
 
 
 FAQ
