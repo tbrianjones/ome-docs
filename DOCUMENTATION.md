@@ -32,8 +32,9 @@ We are currently doing a hackathon and want it to do more than just viewing docu
 Creating Great Documentation with OME
 =====================================
 
-To use the OME, simply visit http://www.onlinemarkdowneditor.com and input the URL of your markdown documentation file.  Note - it should be the Github URL of the .md file, not the URL of the repo.  E.g., enter "https://github.com/tbrianjones/ome-docs/blob/master/DOCUMENTATION.md" in the input box and submit to view this documentation file.
+To use the OME, (visit http://www.onlinemarkdowneditor.com) and input the URL of your markdown documentation file.  Note - it should be the Github URL of the .md file, not the URL of the repo.  E.g., enter "https://github.com/tbrianjones/ome-docs/blob/master/DOCUMENTATION.md" in the input box and submit to view this documentation file.
 
+Your documentation file must be in markdown.  The OME parses h1 tags (denoted in markdown by a line of === beneath the tag) to create the index.  h2-h6 tags are parsed and included as submenu items in the left hand navigation.
 
 
 FAQ
