@@ -97,8 +97,8 @@ Creating Great Documentation with OME
 How to use the OME?
 
 
-Public Libraries Used
-=====================
+Public Projects Used
+====================
 
 We are planning to open source this entire project as part of our Hackathon.  We need to do a security audit before hand to make sure we aren't sharing any private information.  In the mean time, you can view the open sourced projects that we are currently using as part of the Online Markdown Editor.
 
