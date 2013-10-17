@@ -3,10 +3,10 @@ Online Markdown Editor (OME)
 
 To view the originals on Github, please use the links at the top right.
 
-If you'd like to load a different Markdown File from Github, return home, or append it's URI to `http://www.onlinemarkdowneditor.com/docs/`.
+If you'd like to load a different Markdown File from Github, visit the [Online Markdown Editor homepage](http://www.onlinemarkdowneditor.com).
 
 Live Hackathon 10/17-10/19
----
+==========================
 
 We (@leleu, @tbrianjones, @ccdpowell) are doing a hobby hackathon to develop this internal project so it can be released publicly.  We would love your feedback and suggestions -- [please check out our chat room](http://tlk.io/ii_hackathon) to let us know your thoughts.
 
