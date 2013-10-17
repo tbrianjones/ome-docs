@@ -7,7 +7,6 @@ You can view the original File, User, and Repo, using the links at the top right
 
 If you'd like to load a different Markdown File from Github, return home, or append it's URI to `http://www.onlinemarkdowneditor.com/docs/`.
 
-<iframe src="https://kiwiirc.com/client/irc.freenode.net/?nick=killjoy9|?#python" style="border:0; width:100%; height:450px;"></iframe>
 
 FAQ
 ---
