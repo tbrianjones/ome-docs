@@ -1,19 +1,11 @@
 Online Markdown Editor (OME)
 ============================
-[Live Hackathon Chat](http://tlk.io/ii_hackathon)
----
-*We are running a live hackathon chat on tlk.io.  Please visit the [Live Hackathon Chat](http://tlk.io/ii_hackathon) to discuss, collaborate, or offer feedback.*
 
-The Online Markdown Editor is an easy way to publish software documentation right from your GitHub repository.
-
-It was created by @tbrianjones for an internal project.  Contributions by @leleu and @ccdpowell.
+The Online Markdown Editor is an easy way to publish software documentation right from your GitHub repository.  Any Markdown file on Github can be published right to the Online Markdown Editor. It was created by @tbrianjones for an internal company project.  Contributions by @leleu and @ccdpowell.
 
 
 Live Hackathon 10/17-10/19
 ==========================
-
-[Chat with us during the hackathon](http://tlk.io/ii_hackathon)
----
 
 We (@leleu, @tbrianjones, @ccdpowell) are doing a hobby hackathon to develop this internal project so it can be released publicly.  [please visit out our chat room](http://tlk.io/ii_hackathon) to let us know your thoughts.
 
@@ -23,6 +15,10 @@ We want to make it easy to create Great Documentation.  Our philosophy is as fol
 * Zero configuration.  Simply write your documentation in markdown and point the OME to it.
 * Attractive results.  Sections are parsed and linked automatically, making it easy to consume.
 
+Chat with Us Live
+-----------------
+- [Chat with us during the hackathon](http://tlk.io/ii_hackathon)
+- Please visit the [Live Hackathon Chat](http://tlk.io/ii_hackathon) to discuss, collaborate, or offer feedback.
 
 
 Feature Ideas
@@ -76,8 +72,10 @@ Security
 ========
 
 Security on Github is maintained with the OME.
+
 - Public Files can be viewed by anyone and without logging into a Github account.
 - Viewing Private Files require users to Login with their Github account.  Their account must have access to Pull the File they are trying to view.
+
 
 Public Projects Used
 ====================
