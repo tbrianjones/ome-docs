@@ -20,9 +20,9 @@ We are a San Diego based startup that is doing a hackathon this weekend.  We are
 
 Check out the description of the hackathon project here: http://www.onlinemarkdowneditor.com/docs/tbrianjones/ome-docs/DOCUMENTATION.md
 
-Help us decide which of these potential features we should implement over the next 48hrs.  http://www.onlinemarkdowneditor.com/docs/tbrianjones/ome-docs/DOCUMENTATION.md#feature-ideas
+Help us decide which of these potential features we should implement on 10/17 and 10/18.  http://www.onlinemarkdowneditor.com/docs/tbrianjones/ome-docs/DOCUMENTATION.md#feature-ideas
 
-This is a LIVE HACKATHON, so we'd love it if you can pop into the chatroom to learn about how you use documentations.
+This is a LIVE HACKATHON, so we'd love it if you can pop into the chatroom to learn about how you use documentations.  http://tlk.io/ii_hackathon
 
 
 
