@@ -99,7 +99,15 @@ How to use the OME?
 
 Public Libraries Used
 =====================
-List Open Source Libraries used.
+
+We are planning to open source this entire project as part of our Hackathon.  We need to do a security audit before hand to make sure we aren't sharing any private information.  In the mean time, you can view the open sourced projects that we are currently using as part of the Online Markdown Editor.
+
+- [GitHub API Client](https://github.com/KnpLabs/php-github-api)
+- Markdown Parser: [PHP Markdown Extra Extended](https://github.com/egil/php-markdown-extra-extended)
+- Markdown Index Generator: We've developed this as part of the project, and will open source it tomorrow.
+- [Javascript Index Generator](http://mmenu.frebsite.nl/)
+- Web Framework: [Codeigniter](http://ellislab.com/codeigniter)
+- Database: [MySQL](http://www.mysql.com/)
 
 
 Future Features
