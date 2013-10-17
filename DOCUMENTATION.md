@@ -17,16 +17,21 @@ We want to make it easy to create Great Documentation.  Our philosophy is as fol
 * Attractive results.  Sections are parsed and linked automatically, making it easy to consume.
 
 
+
 Future Features
 ===============
+
 We are currently doing a hackathon and want it to do more than just viewing documentation.  Some ideas:
-- Public collaboration - users of your documentation can update and fix your documentation by submitting pull requests through the OME interface (forking handled automatically).
-- Documentation / Code maintenance - monitors your repository, when you update code but not the corresponding documentation, the OME automatically notifies you.
-- Reporting - make your documentation your status reports, have it automatically sent to managers or other coders.
+* Public collaboration - users of your documentation can update and fix your documentation by submitting pull requests through the OME interface (forking handled automatically).
+* Documentation / Code maintenance - monitors your repository, when you update code but not the corresponding documentation, the OME automatically notifies you.
+* Reporting - make your documentation your status reports, have it automatically sent to managers or other coders.
+
 
 Creating Great Documentation with OME
 =====================================
-How to use the OME?
+
+To use the OME, simply visit http://www.onlinemarkdowneditor.com and input the URL of your markdown documentation file.  Note - it should be the Github URL of the .md file, not the URL of the repo.  E.g., enter "https://github.com/tbrianjones/ome-docs/blob/master/DOCUMENTATION.md" in the input box and submit to view this documentation file.
+
 
 
 FAQ
