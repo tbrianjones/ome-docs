@@ -100,7 +100,7 @@ How to use the OME?
 Public Projects Used
 ====================
 
-We are planning to open source this entire project as part of our Hackathon.  We need to do a security audit before hand, however, to ensure we aren't sharing any private information.  In the mean time, you can view the open sourced projects that we are currently using as part of the Online Markdown Editor.
+We are planning to open-source the Online Markdown Editor project as part of our Hackathon.  We need to do a security audit before hand, however, to ensure we aren't sharing any private information.  In the mean time, you can view the public and open-source projects that we are currently using as part of the Online Markdown Editor.
 
 - [GitHub API Client](https://github.com/KnpLabs/php-github-api)
 - Markdown Parser: [PHP Markdown Extra Extended](https://github.com/egil/php-markdown-extra-extended)
