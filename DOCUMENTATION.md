@@ -10,10 +10,26 @@ Live Hackathon 10/17-10/19
 
 We (@leleu, @tbrianjones, @ccdpowell) are doing a hobby hackathon to develop this internal project so it can be released publicly.  We would love your feedback and suggestions -- [please check out our chat room](http://tlk.io/ii_hackathon) to let us know your thoughts.
 
+We want to make it easy to create Great Documentation.  Our philosophy is as follows:
+- Zero installation.  No packages, modules, web servers.
+- Zero configuration.  Simply write your documentation in markdown and point the OME to it.
+- Attractive results.  Sections are parsed and linked automatically, making it easy to consume.
+
+
+Future Features
+===============
+We are currently doing a hackathon and want it to do more than just viewing documentation.  Some ideas:
+[] Public collaboration - users of your documentation can update and fix your documentation by submitting pull requests through the OME interface (forking handled automatically).
+[] Documentation / Code maintenance - monitors your repository, when you update code but not the corresponding documentation, the OME automatically notifies you.
+[] Reporting - make your documentation your status reports, have it automatically sent to managers or other coders.
+
+Creating Great Documentation with OME
+=====================================
+How to use the OME?
 
 
 FAQ
----
+===
 ### What is the OME?
 The Online Markdown Editor ( currently only supports reading the documentation -- editing is one of our features under consideration ) renders any Markdown File on Github as a live website.
 
@@ -38,33 +54,8 @@ This is the easiest way we can imagine maintaining Great Documentation.
 ### Are private files secure?
 Yes. Learn more in the Security section below.
 
-
 Security
---------
+========
 Security on Github is maintained with the OME.
 - Public Files can be viewed by anyone and without logging into a github account.
 - Viewing Private Files require users to Login with their Github account.  Their account must have access to Pull the File they are trying to view.
-
-
-Creating Great Documentation with OME
-=====================================
-How to use the OME?
-
-
-Public Libraries Used
-=====================
-List Open Source Libraries used.
-
-
-Future Features
-===============
-
-Public Features
----------------
-- Inline Editor to edit Documentation from within the rendered markdown.
-- Improved navigation that scrolls to allow large Documentation with lots of Index Items usable.
-
-Premium Features
-----------------
-- *premium* Branding via custom CSS for your Documentation.
-- *premium* Ability to use your own domain / subdomain with your Docs.
