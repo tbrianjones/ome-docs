@@ -24,9 +24,11 @@ We want to make it easy to create Great Documentation.  Our philosophy is as fol
 Future Features
 ===============
 
-We are currently doing a hackathon and want it to do more than just viewing documentation.  Some ideas:
+We want it to do more than just viewing documentation, so we're doing a hackathon.  Please let us know your feedback -- what would be most useful?
 
-* Public collaboration - users of your documentation can update and fix your documentation by submitting pull requests through the OME interface (forking handled automatically).
+Some ideas:
+
+* Public collaboration - documentation userscan update and fix your documentation by submitting pull requests through the OME interface (forking handled automatically).
 * Documentation / Code maintenance - monitors your repository, when you update code but not the corresponding documentation, the OME automatically notifies you.
 * Reporting - make your documentation your status reports, have it automatically sent to managers or other coders.
 
