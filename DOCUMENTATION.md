@@ -3,6 +3,16 @@ Online Markdown Editor (OME)
 
 The [Online Markdown Editor](http://www.onlinemarkdowneditor.com) is an easy way to publish software documentation right from your GitHub repository.  Any Markdown file on Github can be published right to the Online Markdown Editor. It was created by @tbrianjones for an internal company project.  Contributions by @leleu and @ccdpowell.
 
+Example Docs
+------------
+*Markdown files rendered on the OME*
+
+- [Our Company's API Docs](http://www.onlinemarkdowneditor.com/docs/tbrianjones/cortex-api-docs/DOCUMENTATION.md)
+	- This project developed from wanting an easy way to maintain and display these.
+	- They exist as a [single markdown file](https://github.com/tbrianjones/cortex-api-docs/blob/master/DOCUMENTATION.md) on Github
+
+*add some more examples*
+
 
 Live Hackathon 10/17-10/19
 ==========================
