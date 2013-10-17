@@ -1,8 +1,6 @@
-OME Docs
+README
 ========
 
-Documentation ( and example Markdown Doc ) for The Online Markdown Editor.
+The Online Markdown Editor (OME) is a convenient way to maintain and display your documentation on the web.  It is being developed in a live hackathon, 10/17/2013 - 10/19/2013.  Please see the @DOCUMENTATION.md file for more information.
 
-These files are meant to be used as documentation and examples for the Online Markdown Editor.
-
-The actual project is currently private while the useful parts are reworked to be made public.
+Please visit [the live hackathon chat](http://tlk.io/ii_hackathon) to give us feedback, ask questions, or just talk with us while we're doing the hackathon.
