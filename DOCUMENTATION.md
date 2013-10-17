@@ -8,6 +8,9 @@ It was created by @tbrianjones for an internal project.  Contributions by @leleu
 Live Hackathon 10/17-10/19
 ==========================
 
+[Chat with us during the hackathon](http://tlk.io/ii_hackathon)
+---
+
 We (@leleu, @tbrianjones, @ccdpowell) are doing a hobby hackathon to develop this internal project so it can be released publicly.  We would love your feedback and suggestions -- [please check out our chat room](http://tlk.io/ii_hackathon) to let us know your thoughts.
 
 We want to make it easy to create Great Documentation.  Our philosophy is as follows:
