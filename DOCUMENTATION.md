@@ -38,7 +38,7 @@ Yes. Learn more in the Security section below.
 Security
 --------
 Security on Github is maintained with the OME.
-- Public Files can be viewed by anyone and without logging into a github account.
+- Public Files can be viewed by anyone and without logging into a Github account.
 - Viewing Private Files require users to Login with their Github account.  Their account must have access to Pull the File they are trying to view.
 
 
@@ -100,11 +100,13 @@ How to use the OME?
 Public Projects Used
 ====================
 
-We are planning to open source this entire project as part of our Hackathon.  We need to do a security audit before hand to make sure we aren't sharing any private information.  In the mean time, you can view the open sourced projects that we are currently using as part of the Online Markdown Editor.
+We are planning to open source this entire project as part of our Hackathon.  We need to do a security audit before hand, however, to ensure we aren't sharing any private information.  In the mean time, you can view the open sourced projects that we are currently using as part of the Online Markdown Editor.
 
 - [GitHub API Client](https://github.com/KnpLabs/php-github-api)
 - Markdown Parser: [PHP Markdown Extra Extended](https://github.com/egil/php-markdown-extra-extended)
-- Markdown Index Generator: We've developed this as part of the project, and will open source it tomorrow.
+	- We tested a lot of markdown parsers, and this was one of the best and most active.
+- Markdown Index Generator
+	- We've developed this as part of the project, and will open source it tomorrow.
 - [Javascript Index Generator](http://mmenu.frebsite.nl/)
 - Web Framework: [Codeigniter](http://ellislab.com/codeigniter)
 - Database: [MySQL](http://www.mysql.com/)
