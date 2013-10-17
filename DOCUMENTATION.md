@@ -1,18 +1,21 @@
 Online Markdown Editor (OME)
 ============================
 
-*This is just a markdown file on Github.*
-
-You can view the original File, User, and Repo, using the links at the top right.
+To view the originals on Github, please use the links at the top right.
 
 If you'd like to load a different Markdown File from Github, return home, or append it's URI to `http://www.onlinemarkdowneditor.com/docs/`.
+
+Live Hackathon 10/17-10/19
+---
+
+We (@leleu, @tbrianjones, @ccdpowell) are doing a hobby hackathon to develop this internal project so it can be released publicly.  We would love your feedback and suggestions -- [please check out our chat room](http://tlk.io/ii_hackathon) to let us know your thoughts.
+
 
 
 FAQ
 ---
-
 ### What is the OME?
-The Online Markdown Editor ( currently only an advanced viewer ) renders any Markdown File on Github as documentation with navigation index.
+The Online Markdown Editor ( currently only supports reading the documentation -- editing is one of our features under consideration ) renders any Markdown File on Github as a live website.
 
 ### How does the OME work?
 The OME renders markdown in a manner that is best suited for Documentation ( originally built for API Documentation ). While rendering, `h1`, `h2`, and `h3` headers are pulled and rendered as a mobile friendly index to the left of the original rendered markdown.
