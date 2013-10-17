@@ -1,9 +1,9 @@
 Online Markdown Editor (OME)
 ============================
+The Online Markdown Editor is an easy way to publish software documentation right from your GitHub repository.
 
-To view the originals on Github, please use the links at the top right.
+It was created by @tbrianjones for an internal project.  Contributions by @leleu and @ccdpowell.
 
-If you'd like to load a different Markdown File from Github, visit the [Online Markdown Editor homepage](http://www.onlinemarkdowneditor.com).
 
 Live Hackathon 10/17-10/19
 ==========================
@@ -20,7 +20,11 @@ The Online Markdown Editor ( currently only supports reading the documentation -
 ### How does the OME work?
 The OME renders markdown in a manner that is best suited for Documentation ( originally built for API Documentation ). While rendering, `h1`, `h2`, and `h3` headers are pulled and rendered as a mobile friendly index to the left of the original rendered markdown.
 
-There are plans to build out an inline editor that allows documentation to be updated within the editor without leaving the rendered markdown.  This will make keeping Great Documentation incredibly easy, especially for Open Source Projects.
+### How do I view the original documents on Github?
+To view the originals on Github, please use the links at the top right.
+
+### How do I view a different documentation file or repository?
+If you'd like to load a different Markdown File from Github, visit the [Online Markdown Editor homepage](http://www.onlinemarkdowneditor.com).
 
 ### Why was it built?
 The OME grew from an internal project where we were rendering our company's API Documentation from a Markdown File.  We realized how simple this was to maintain, and saw it allow us to effortlessly maintain Great Documentation.
