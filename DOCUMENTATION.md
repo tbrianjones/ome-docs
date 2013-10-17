@@ -103,8 +103,11 @@ Public Projects Used
 We are planning to open-source the Online Markdown Editor project as part of our Hackathon.  We need to do a security audit before hand, however, to ensure we aren't sharing any private information.  In the mean time, you can view the public and open-source projects that we are currently using as part of the Online Markdown Editor.
 
 - [GitHub API Client](https://github.com/KnpLabs/php-github-api)
-- Markdown Parser: [PHP Markdown Extra Extended](https://github.com/egil/php-markdown-extra-extended)
-	- We tested a lot of markdown parsers, and this was one of the best and most active.
+- Markdown Parsers:
+	- [PHP Markdown Extra Extended](https://github.com/egil/php-markdown-extra-extended)
+		- This is the markdown parser currently implemented in the Online Markdown Editor.
+	- [Sublime Markdown Extended](https://github.com/jonschlinkert/sublime-markdown-extended)
+		- Another markdown parser we've tried.
 - Markdown Index Generator
 	- We've developed this as part of the project, and will open source it tomorrow.
 - [Javascript Index Generator](http://mmenu.frebsite.nl/)
