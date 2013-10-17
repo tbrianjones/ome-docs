@@ -66,14 +66,8 @@ WIth the OME, you can maintain even very large documentation files ( our API Doc
 This is the easiest way we can imagine maintaining Great Documentation.
 
 ### Are private files secure?
-Yes. Learn more in the Security section below.
-
-Security
-========
-
-Security on Github is maintained with the OME.
-
-- Public Files can be viewed by anyone and without logging into a Github account.
+- Security on Github is maintained with the OME.
+- Public Files can be viewed by anyone, and without logging into a Github account.
 - Viewing Private Files require users to Login with their Github account.  Their account must have access to Pull the File they are trying to view.
 
 
