@@ -11,7 +11,7 @@ Live Hackathon 10/17-10/19
 [Chat with us during the hackathon](http://tlk.io/ii_hackathon)
 ---
 
-We (@leleu, @tbrianjones, @ccdpowell) are doing a hobby hackathon to develop this internal project so it can be released publicly.  We would love your feedback and suggestions -- [please check out our chat room](http://tlk.io/ii_hackathon) to let us know your thoughts.
+We (@leleu, @tbrianjones, @ccdpowell) are doing a hobby hackathon to develop this internal project so it can be released publicly.  [please visit out our chat room](http://tlk.io/ii_hackathon) to let us know your thoughts.
 
 We want to make it easy to create Great Documentation.  Our philosophy is as follows:
 
@@ -21,7 +21,7 @@ We want to make it easy to create Great Documentation.  Our philosophy is as fol
 
 
 
-Future Features
+Feature Ideas
 ===============
 
 We want it to do more than just viewing documentation, so we're doing a hackathon.  Please let us know your feedback -- what would be most useful?
@@ -30,7 +30,7 @@ Some ideas:
 
 * Public collaboration - documentation userscan update and fix your documentation by submitting pull requests through the OME interface (forking handled automatically).
 * Documentation / Code maintenance - monitors your repository, when you update code but not the corresponding documentation, the OME automatically notifies you.
-* Reporting - make your documentation your status reports, have it automatically sent to managers or other coders.
+* Reporting - make your documentation your status reports automatically sent to your team.
 
 
 
