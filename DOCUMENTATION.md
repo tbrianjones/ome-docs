@@ -1,7 +1,7 @@
 Online Markdown Editor (OME)
 ============================
 
-The Online Markdown Editor is an easy way to publish software documentation right from your GitHub repository.  Any Markdown file on Github can be published right to the Online Markdown Editor. It was created by @tbrianjones for an internal company project.  Contributions by @leleu and @ccdpowell.
+The [Online Markdown Editor](http://www.onlinemarkdowneditor.com) is an easy way to publish software documentation right from your GitHub repository.  Any Markdown file on Github can be published right to the Online Markdown Editor. It was created by @tbrianjones for an internal company project.  Contributions by @leleu and @ccdpowell.
 
 
 Live Hackathon 10/17-10/19
