@@ -8,12 +8,10 @@ Example Docs
 
 *Markdown files rendered on the OME*
 
-- [This document](http://www.onlinemarkdowneditor.com/docs/tbrianjones/ome-docs/DOCUMENTATION.md)
 - [Our Company's API Docs](http://www.onlinemarkdowneditor.com/docs/tbrianjones/cortex-api-docs/DOCUMENTATION.md)
 	- This project developed from wanting an easy way to maintain and display these.
 	- They exist as a [single markdown file](https://github.com/tbrianjones/cortex-api-docs/blob/master/DOCUMENTATION.md) on Github
-
-*add some more examples*
+- [This Document's Source Markdown File](https://github.com/tbrianjones/ome-docs/blob/master/DOCUMENTATION.md)
 
 
 Live Hackathon 10/17-10/19
